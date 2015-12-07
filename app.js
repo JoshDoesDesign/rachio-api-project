@@ -3,7 +3,6 @@
 
 var express        = require('express');
 var bodyParser     = require('body-parser');
-var d3 			   = require('d3');
 var gulp 		   = require('gulp');
 var sass 		   = require('gulp-sass');
 var babel		   = require('gulp-babel');
