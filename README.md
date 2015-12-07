@@ -1,5 +1,5 @@
 
-Alt-Rachio Web Project
+Rachio Web Project
 ======
 
 ###### GET and PUT requests to the Rachio API
